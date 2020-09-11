@@ -1,4 +1,5 @@
-## Welcome to JSMuise GitHub Pages
+![portfolio image](images/profilepic.jpg)
+# Welcome to JSMuise GitHub Pages
 
 # [ODataClient: Generic ODataClient written in Angular](https://github.com/jsmuise/ODataClient)
 
