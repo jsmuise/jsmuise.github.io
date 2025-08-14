@@ -1,40 +1,60 @@
 ![portfolio image](images/profilepic.jpg)
-# Welcome to JSMuise GitHub Pages
+# Welcome to Joseph Muise's GitHub Pages
 
-# [ODataClient: Generic ODataClient written in Angular](https://github.com/jsmuise/ODataClient)
+## 👋 About Me
 
-You can use the [editor on GitHub](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Joseph Muise, a technology consultant with a passion for cloud computing, AI, and full-stack development. This portfolio showcases my learning journey and contributions across personal and corporate projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 📚 Table of Contents
+- Microsoft Learn Achievements
+- freeCodeCamp Achievements
+- Skills
+- GitHub Projects
+- Contact
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🧠 Microsoft Learn Achievements
 
-```markdown
-Syntax highlighted code block
+- [Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JosephMuise-1532/39F0D01E0616E116?sharingId=B8C4AAB3498622FA)
+- [Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JosephMuise-1532/2DCBE22901EF3D17?sharingId=B8C4AAB3498622FA)
 
-# Header 1
-## Header 2
-### Header 3
+## 🎓 freeCodeCamp Achievements
 
-- Bulleted
-- List
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/jsmuise/foundational-c-sharp-with-microsoft)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 🛠️ Skills
 
-[Link](url) and ![Image](src)
-```
+- Languages: C#, JavaScript, TypeScript
+- Frameworks: Angular, .NET, Node.js
+- Cloud: Azure
+- Tools: Visual Studio, Visual Studio Code, Git, Postman
+- Databases: MS SQL Server, SQLite, Oracle
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
+## 🔗 GitHub Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsmuise/jsmuise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Personal Projects
+- [ODataClient: Generic ODataClient written in Angular](https://github.com/jsmuise/ODataClient)
+- [Project A](https://github.com/personalusername/project-a)
+- [Project B](https://github.com/personalusername/project-b)
 
-### Support or Contact
+### Corporate Projects
+- [Project X](https://github.com/corporateusername/project-x)
+- [Project Y](https://github.com/corporateusername/project-y)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/joseph-s-muise)
+- [Personal Email](mailto:joseph_muise@hotmail.com)
+- [Corporate Email](mailto:joseph.s.muise@cgi.com)
+
+---
+
+© 2025 Joseph S. Muise · Powered by GitHub Pages
+
