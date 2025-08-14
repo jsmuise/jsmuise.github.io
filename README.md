@@ -1,18 +1,22 @@
+---
+### Table of Contents
+[Welcome to Joseph Muise's GitHub Pages](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#welcome-to-joseph-muise-s-github-pages)
+  * [👋 About Me](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#microsoft-learn-achievements)
+  * [🧠 Microsoft Learn Achievements](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#freecodecamp-achievements)
+  * [🎓 freeCodeCamp Achievements](#---freecodecamp-achievements)
+  * [🛠️ Skills](#skills)
+  * [🔗 GitHub Projects](#github-projects)
+    + [Personal Projects](#personal-projects)
+    + [Corporate Projects](#corporate-projects)
+  * [📫 Contact](#contact)
+
+---
 ![portfolio image](images/profilepic.jpg)
 # Welcome to Joseph Muise's GitHub Pages
 
 ## 👋 About Me
 
 I'm Joseph Muise, a technology consultant with a passion for cloud computing, AI, and full-stack development. This portfolio showcases my learning journey and contributions across personal and corporate projects.
-
-## 📚 Table of Contents
-- Microsoft Learn Achievements
-- freeCodeCamp Achievements
-- Skills
-- GitHub Projects
-- Contact
-
----
 
 ## 🧠 Microsoft Learn Achievements
 
