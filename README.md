@@ -1,9 +1,9 @@
 ---
 ### Table of Contents
-[Welcome to Joseph Muise's GitHub Pages](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#welcome-to-joseph-muise-s-github-pages)
-  * [👋 About Me](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#microsoft-learn-achievements)
-  * [🧠 Microsoft Learn Achievements](https://github.com/jsmuise/jsmuise.github.io/edit/master/README.md#freecodecamp-achievements)
-  * [🎓 freeCodeCamp Achievements](#---freecodecamp-achievements)
+[Welcome to Joseph Muise's GitHub Pages](https://github.com/jsmuise/jsmuise.github.io/README.md#welcome-to-joseph-muise-s-github-pages)
+  * [👋 About Me](https://github.com/jsmuise/jsmuise.github.io/README.md#microsoft-learn-achievements)
+  * [🧠 Microsoft Learn Achievements](https://github.com/jsmuise/jsmuise.github.io/README.md#freecodecamp-achievements)
+  * [🎓 freeCodeCamp Achievements](#freecodecamp-achievements)
   * [🛠️ Skills](#skills)
   * [🔗 GitHub Projects](#github-projects)
     + [Personal Projects](#personal-projects)
